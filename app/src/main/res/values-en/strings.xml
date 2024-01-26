@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">My Travel Route</string>
+    <string name="agregar">Add destination</string>
+    <string name="vacio">You have not entered any destinations yet</string>
+    <string name="alojamiento">Daily Lodging</string>
+    <string name="traslado">Transfer</string>
+    <string name="comentarios">Comments</string>
+    <string name="destino">Destination</string>
+    <string name="nomDestino">Enter destination name</string>
+    <string name="imagen">Reference image</string>
+    <string name="imgDestino">Enter image URL</string>
+    <string name="coordenadas">Latitude and longitude</string>
+    <string name="coorDestino">Enter coordinates</string>
+    <string name="orden">Visit sequence</string>
+    <string name="ordDestino">Enter de order of visit</string>
+    <string name="costo_alojamiento">Accommodation cost</string>
+    <string name="costo_traslado">Transfer cost</string>
+    <string name="costoDestino">Enter the amount</string>
+    <string name="comentDestino">Enter comments or notes</string>
+    <string name="guardar">Save</string>
+    <string name="agregado">Destination added to the list</string>
+    <string name="actualizado">Destination has been updated</string>
+    <string name="requerido">Fields must be filled</string>
+    <string name="volver">Home</string>
+    <string name="capturar">Capture</string>
+    <string name="volver_lugar">Back</string>
+    <string name="coordMapa">Please edit coordinates</string>
+    <string name="permisos">You must grant permissions to access</string>
+    <string name="tomar_foto">Take Photo</string>
+    <string name="ver_mapa">View map</string>
+</resources>

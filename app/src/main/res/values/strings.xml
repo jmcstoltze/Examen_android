@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">Examen</string>
+    <string name="titulo">Mi Ruta de Viaje</string>
+    <string name="agregar">Agregar destino</string>
+    <string name="vacio">No has ingresado destinos todavía</string>
+    <string name="alojamiento">Alojamiento diario</string>
+    <string name="traslado">Traslado</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="destino">Destino</string>
+    <string name="nomDestino">Ingrese nombre destino</string>
+    <string name="imagen">Imagen Referencial</string>
+    <string name="imgDestino">Ingrese URL de imagen</string>
+    <string name="coordenadas">Latitud y longitud</string>
+    <string name="coorDestino">Ingrese coordenadas</string>
+    <string name="orden">Orden de visita</string>
+    <string name="ordDestino">Escriba el orden de visita</string>
+    <string name="costo_alojamiento">Costo de alojamiento</string>
+    <string name="costo_traslado">Costo de traslados</string>
+    <string name="costoDestino">Ingrese el monto</string>
+    <string name="comentDestino">Ingrese comentarios o notas</string>
+    <string name="guardar">Guardar</string>
+    <string name="agregado">Destino agregado a la lista</string>
+    <string name="actualizado">Destino a sido actualizado</string>
+    <string name="requerido">Se deben llenar los campos</string>
+    <string name="volver">Inicio</string>
+    <string name="capturar">Capturar</string>
+    <string name="volver_lugar">Volver</string>
+    <string name="coordMapa">Debe editar coordenadas</string>
+    <string name="permisos">Debe otorgar permisos para acceder</string>
+    <string name="tomar_foto">Tomar Foto</string>
+    <string name="ver_mapa">Ver mapa</string>
+</resources>
